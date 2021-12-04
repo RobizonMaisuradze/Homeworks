@@ -1,0 +1,39 @@
+body {
+background-image:url("download.jpg");
+background-repeat: no-repeat ;
+background-attachment: fixed;
+background-size: cover;
+}
+img {
+    margin-left: 40%;
+}
+h1 {
+    color:brown;
+    background-color:coral;
+    border: 2px solid black;
+    padding-left: 30%;
+    font-size: 40px;
+}
+p {
+    text-align: center;
+    color:darkmagenta;
+    font-size: 30px;
+}
+
+a {    
+margin-left: 40%;
+font-size: 35px;
+text-decoration: none;
+}
+a:link{
+color:black
+}
+a:hover{
+color: cyan;
+}
+a:visited{
+color:red
+}
+a:active{
+color:yellow
+}
